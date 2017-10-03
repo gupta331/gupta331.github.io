@@ -382,6 +382,8 @@ margin: 0 15px 20px 15px;
 
 a:hover {
     background-color: #000;
+    height:351px;
+    display:block;
 }
 
 .no-left-gutter {margin-left:0;}
