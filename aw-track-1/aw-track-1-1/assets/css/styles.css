@@ -42,3 +42,12 @@ position: absolute;
 	top: 0;
 	left: 0;
 }
+
+.container:hover {  
+border:2px purple;  
+box-shadow: : 0 0 5px #333;  
+-webkit-box-shadow: 0 0 5px #333;  
+-moz-box-shadow: 0 0 5px #333;  
+-o-box-shadow: 0 0 5px #333;  
+-ms-box-shadow: 0 0 5px #333;
+}
