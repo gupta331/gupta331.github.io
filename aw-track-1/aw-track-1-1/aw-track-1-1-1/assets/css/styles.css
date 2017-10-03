@@ -1,0 +1,48 @@
+* {vertical-align: top;}
+
+.wrapper {
+	background: #fff;
+	width:960px;
+	margin:0 auto 0 auto;
+}
+
+.b {
+position: absolute;
+	top: 0px;
+	bottom: 0px;
+
+}
+
+.a {
+position: absolute;
+	top: 545px;
+	left: 495px;
+
+
+
+}
+
+.c {
+position: absolute;
+	top: 600px;
+	right: 350px;
+}
+
+.d {
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+h5 { 
+   position: absolute; 
+   top: 945px; 
+   left: 200px; 
+   width: 100%; 
+   color: #fff;
+   font-family: arial;
+	letter-spacing: 5px;
+	margin:0;
+	padding:50px;
+}
+

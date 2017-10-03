@@ -380,6 +380,10 @@ margin: 0 15px 20px 15px;
 }
 
 
+a:hover {
+    background-color: #000;
+}
+
 .no-left-gutter {margin-left:0;}
 .no-right-gutter {margin-right:0;}
 .whitespace-fix {font-size:0;}
