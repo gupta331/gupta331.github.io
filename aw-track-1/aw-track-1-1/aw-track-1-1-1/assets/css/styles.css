@@ -28,11 +28,16 @@ position: absolute;
 	right: 350px;
 }
 
+h5:hover {
+	color: #ca00ff;
+}
+
 .d {
 	position: fixed;
 	top: 0;
 	left: 0;
 }
+
 
 h5 { 
    position: absolute; 
