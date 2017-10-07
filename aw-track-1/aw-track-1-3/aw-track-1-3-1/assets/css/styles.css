@@ -1,0 +1,68 @@
+* {vertical-align: top;}
+
+
+
+.wrapper {
+	background: #fff;
+	width:960px;
+	margin:0 auto 0 auto;
+}
+
+.a {
+position: fixed;
+	top: 0px;
+
+}
+
+.b {
+position: fixed;
+	top: 60px;
+	left:230px;
+}
+
+
+.e {
+position: absolute;
+	top: 700px;
+	left:159px;
+}
+
+}
+
+.d {
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+h5:hover {
+	color: #ca00ff;
+}
+
+
+h5 { 
+   position: absolute; 
+   top: 1333px; 
+   left: 470px; 
+   width: 100%; 
+   color: #FF5983;
+   font-family: arial;
+	letter-spacing: 5px;
+	margin:0;
+	padding:50px;
+
+}
+
+p {
+	position: absolute;
+	top: 250px;
+	right:200px;
+	color: #FF5983;
+   font-family: arial;
+   font-size: 60px;
+	letter-spacing: 5px;
+	margin:0;
+	padding:50px;
+
+}
+
