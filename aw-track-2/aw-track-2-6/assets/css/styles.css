@@ -1,0 +1,45 @@
+* {vertical-align: top;}
+
+.wrapper {
+	background: #fff;
+	width:960px;
+	margin:0 auto 0 auto;
+}
+
+.b {
+position: absolute;
+	top: 0px;
+	bottom: 0px;
+
+}
+
+
+.c {
+position: absolute;
+	top: 420px;
+	left: 270px;
+}
+
+.a {
+position: absolute;
+	top: 710px;
+	left: 690px;
+}
+
+.d {
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+
+.container:hover {  
+border:2px purple;  
+box-shadow: : 0 0 5px #333;  
+-webkit-box-shadow: 0 0 5px #333;  
+-moz-box-shadow: 0 0 5px #333;  
+-o-box-shadow: 0 0 5px #333;  
+-ms-box-shadow: 0 0 5px #333;
+}
+
+
