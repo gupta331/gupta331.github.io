@@ -403,11 +403,36 @@ position: fixed;
 	left: 0;
 }
 
+h4 { 
+   position: absolute; 
+   top: 1000px; 
+   left: 310px; 
+   width: 100%; 
+   color: #000;
+   font-family: arial;
+	letter-spacing: 5px;
+	font-size: 12px;
+	margin:0;
+	padding:50px;
+}
+
+h3 { 
+   position: absolute; 
+   top: 1685px; 
+   left: 310px; 
+   width: 100%; 
+   color: #97ff97;
+   font-family: arial;
+	letter-spacing: 5px;
+	font-size: 12px;
+	margin:0;
+	padding:50px;
+}
 
 h5 { 
    position: absolute; 
-   top: 1000px; 
-   left: 320px; 
+   top: 1350px; 
+   left: 355px; 
    width: 100%; 
    color: #000;
    font-family: arial;
