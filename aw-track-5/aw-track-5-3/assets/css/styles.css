@@ -1,0 +1,58 @@
+*{box-sizing: border-box;}
+*{vertical-align: top;}
+
+body {
+ margin: 0;
+ padding: 0;
+ font-size: 0;
+}
+
+html,body {height: 100%;}
+
+.wrapper {
+ width: 100%;
+ height: 100%;
+}
+
+.column {
+ height: 60%;
+ width: 100%;
+ padding: 30px;
+}
+
+.content {
+ background: #000;
+ font-size: 20px;
+}
+
+ul,li { 
+ list-style: none;
+ margin: 0;
+ padding: 0; 
+}
+
+.nav-item{
+ border: 1px solid #000;
+ padding: 10px 20px;
+ display: inline-block;
+ font-size: 20px;
+ margin: 0 15px 15px 0;
+ cursor: pointer;
+}
+
+.nav-item:hover,.nav-item.active {
+ background: #000;
+ color: #fff;
+}
+
+.content.green { background: #B8E986; }
+.content.blue { background: #4A90E2; }
+.content.red { background: #D0021B; }
+.content.sol-lewitt { background: url('../img/shrink.png');}
+.content.about { background: #ffa; }
+
+
+.audio {opacity: 0;}
+
+.hide {display: none;}
+
