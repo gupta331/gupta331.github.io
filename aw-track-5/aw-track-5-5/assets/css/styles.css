@@ -54,6 +54,12 @@
 }
 
 
+.hide {
+	display: none;
+}
+
+
+
 
 .button-2 {
 	width: 135px;
@@ -79,6 +85,7 @@
 .button-3:hover {
 	background-position: -175px 0;
 	transform:translate(70px);
+
 
 }
 .button-4 {
@@ -122,6 +129,9 @@ h5 {
 	padding:50px;
 }
 
+h5:hover {
+	color: #ca00ff;
+}
 
 }
 .container:hover {  
@@ -132,4 +142,7 @@ box-shadow: : 0 0 5px #333;
 -o-box-shadow: 0 0 5px #333;  
 -ms-box-shadow: 0 0 5px #333;
 }
+
+.hide {
+	display: none;
 
