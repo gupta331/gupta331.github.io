@@ -15,8 +15,8 @@ position: fixed;
 
 .a {
 position: fixed;
-	top: 30px;
-	left: 330px;
+	top: 200px;
+	left: 410px;
 }
 
 .c {
@@ -32,8 +32,8 @@ h5:hover {
 
 h6 { 
    position: fixed; 
-   top: 650px; 
-   left: 450px; 
+   top: 630px; 
+   left: 420px; 
    width: 100%; 
    color: #000;
    font-family: arial;
