@@ -405,7 +405,7 @@ position: fixed;
 
 h4 { 
    position: absolute; 
-   top: 1000px; 
+   top: 950px; 
    left: 310px; 
    width: 100%; 
    color: #000;
@@ -418,7 +418,7 @@ h4 {
 
 h3 { 
    position: absolute; 
-   top: 1685px; 
+   top: 1665px; 
    left: 310px; 
    width: 100%; 
    color: #97ff97;
@@ -431,7 +431,7 @@ h3 {
 
 h5 { 
    position: absolute; 
-   top: 1350px; 
+   top: 1360px; 
    left: 355px; 
    width: 100%; 
    color: #000;
