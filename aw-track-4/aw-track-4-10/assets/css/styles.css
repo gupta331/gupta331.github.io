@@ -38,6 +38,9 @@ h5 {
 	left: 0;
 }
 
+.hide {
+	display: none;
+}
 
 .container:hover {  
 border:2px purple;  

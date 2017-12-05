@@ -50,3 +50,6 @@ box-shadow: : 0 0 5px #333;
 -ms-box-shadow: 0 0 5px #333;
 }
 
+.hide {
+	display: none;
+}

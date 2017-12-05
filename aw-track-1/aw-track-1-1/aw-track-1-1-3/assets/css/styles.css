@@ -42,4 +42,7 @@ h5 {
 	margin:0;
 	padding:50px;
 }
+.hide {
+	display: none;
+}
 

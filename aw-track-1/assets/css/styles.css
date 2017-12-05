@@ -399,3 +399,6 @@ a:hover {
 .c4 {width:610px; background: #fff}
 
 img {width:100%;}
+
+.hide {
+	display: none;}
